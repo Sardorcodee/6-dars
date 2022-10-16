@@ -1,0 +1,149 @@
+body {
+  background-color: white;
+}
+.logo {
+  position: relative;
+  width: 160px;
+  height: 41px;
+  left: 247px;
+  top: 115px;
+  display: inline-block;
+}
+.menu {
+  position: relative;
+  top: 103px;
+  left: 635px;
+  display: inline-block;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+li {
+  display: inline-block;
+  margin: 20px;
+  font-style: bold;
+  opacity: 0.5;
+  text-decoration: none;
+  color: black;
+}
+li:first-of-type {
+  opacity: 1;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h2 {
+  position: relative;
+  top: 180px;
+  left: 247px;
+  color: black;
+  font-size: 48px;
+  font-weight: 700;
+}
+.p1 {
+  position: relative;
+  left: 247px;
+  top: 170px;
+  font-weight: 300;
+  font-size: 21px;
+  mix-blend-mode: normal;
+  opacity: 0.7;
+}
+.img1 {
+  position: relative;
+  top: -150px;
+  left: 550px;
+  width: 650px;
+  height: 550px;
+}
+.button1 {
+  position: relative;
+  left: 247px;
+  bottom: 300px;
+  background-color: #458ff6;
+  width: 200px;
+  height: 56px;
+  border: 0px solid wheat;
+  border-radius: 55px;
+  font-size: 18px;
+}
+.title2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+}
+.p2 {
+  color: #7d7987;
+  font-weight: 300;
+  text-align: center;
+}
+.card {
+  width: 350px;
+  height: 354px;
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 0px 0px 50px 0.1px rgb(250, 247, 247);
+  margin: auto -120px 30px 150px;
+  display: inline-block;
+}
+.cardcontainer {
+  position: relative;
+  left: auto;
+  top: 20px;
+  width: 280px;
+  margin: auto;
+  background-color: white;
+}
+.button2 {
+  position: relative;
+  top: -330px;
+  margin-left: 560px;
+  background-color: #458ff6;
+  width: 180px;
+  height: 45px;
+  border: 0px solid wheat;
+  border-radius: 55px;
+  font-size: 18px;
+}
+.img2 {
+  position: relative;
+  top: 380px;
+  left: -650px;
+  width: 600px;
+  height: 480px;
+}
+.h22 {
+  margin-left: 550px;
+  margin-top: -220px;
+  font-size: 46px;
+  font-weight: 300;
+  color: black;
+}
+
+.p3 {
+  position: relative;
+  top: 180px;
+  left: 800px;
+  font-size: 18px;
+  opacity: 0.7;
+}
+.but3 {
+  position: relative;
+  top: -220px;
+  left: 800px;
+  background-color: white;
+  color: #458ff6;
+  width: 180px;
+  height: 45px;
+  border: 3px solid #458ff6;
+  border-radius: 55px;
+  font-size: 18px;
+}
+.img3 {
+  position: relative;
+  top: 550px;
+  left: 600px;
+  width: 600px;
+  height: 480px;
+}

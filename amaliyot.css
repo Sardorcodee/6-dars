@@ -1,0 +1,41 @@
+.card {
+  display: inline-block;
+  margin: 45px;
+  width: 400px;
+  height: 550px;
+  background-color: white;
+  box-shadow: 0px 0px 15px 1px black;
+}
+img {
+  width: 400px;
+}
+h2 {
+  position: relative;
+  left: 30px;
+  color: black;
+}
+p {
+  position: relative;
+  left: 30px;
+  color: black;
+  font-size: 15px;
+}
+strong {
+  position: relative;
+  left: 30px;
+  font-size: 17px;
+  display: inline-block;
+  opacity: 0.8;
+}
+.p2 {
+  position: relative;
+  left: 50px;
+  font-size: 15px;
+  display: inline-block;
+  opacity: 0.9;
+}
+.img2 {
+  position: relative;
+  top: -7px;
+  height: 50px;
+}

@@ -1,0 +1,51 @@
+.target {
+  font-size: 30px;
+}
+h2 {
+  background-color: red;
+  width: 30px;
+  margin: auto;
+  height: 26px;
+  text-align: center;
+  margin-top: 20px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  position: relative;
+  top: 100px;
+}
+
+.card {
+  position: relative;
+  top: 90px;
+  font-size: 30px;
+  text-align: center;
+  width: 50%;
+  height: 300px;
+  margin: auto;
+  color: white;
+  background-color: white;
+  box-shadow: 100px 0 0 -50px white, -100px 0 0 -50px white,
+    0px 100px 0 -50px white, 0px -100px 0 -50px white, 0px 0 0 51px red;
+}
+/* h1 {
+  font-size: 300px;
+  margin: 0;
+  text-align: center;
+  color: azure;
+  background-color: black;
+  padding: 80px 0;
+  text-shadow: 5px 5px red, -5px -5px aqua;
+} */
+p {
+  font-size: 50px;
+  padding: 15px;
+  color: #fff;
+  background-color: red;
+  transition-duration: 0.3s;
+  transition-property: all;
+  transition-timing-function: ease-in;
+  transition: all 1s 1s ease-in;
+}
+p:hover {
+  background-color: blue;
+}
